@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(100, 178, 255);
+}
+
+h1 {
+  color: lightseagreen;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: blue;
+  border: 5px solid rgb(222, 79, 103);
+  padding: 50px;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p.blue {
+  color: rgb(57, 136, 146);
+  background-color: aqua;
+}
+
+h3 {
+  color: rgb(99, 161, 99);
+  background-color: yellow;
+}
+
+img {
+  border: 5px solid rgb(99, 161, 99);
+  width: 50%;
+  height: 25%;
+  margin-left: 100px;
+}
+
+#highlight {
+  color: olivedrab;
+  background-color: blueviolet;
+}
+
+.top {
+  background-color: red;
+  float: left;
+}
